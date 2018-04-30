@@ -1,0 +1,4 @@
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/obj/Release/netcoreapp2.0/encryptWord.csproj.CoreCompileInputs.cache
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/obj/Release/netcoreapp2.0/encryptWord.AssemblyInfoInputs.cache
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/obj/Release/netcoreapp2.0/encryptWord.AssemblyInfo.cs
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/obj/Release/netcoreapp2.0/encryptWord.csprojResolveAssemblyReference.cache

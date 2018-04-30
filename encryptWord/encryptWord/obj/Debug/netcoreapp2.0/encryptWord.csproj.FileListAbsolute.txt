@@ -1,0 +1,11 @@
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/obj/Debug/netcoreapp2.0/encryptWord.csprojResolveAssemblyReference.cache
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/obj/Debug/netcoreapp2.0/encryptWord.csproj.CoreCompileInputs.cache
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/obj/Debug/netcoreapp2.0/encryptWord.AssemblyInfoInputs.cache
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/obj/Debug/netcoreapp2.0/encryptWord.AssemblyInfo.cs
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/bin/Debug/netcoreapp2.0/encryptWord.deps.json
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/bin/Debug/netcoreapp2.0/encryptWord.runtimeconfig.json
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/bin/Debug/netcoreapp2.0/encryptWord.runtimeconfig.dev.json
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/bin/Debug/netcoreapp2.0/encryptWord.dll
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/bin/Debug/netcoreapp2.0/encryptWord.pdb
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/obj/Debug/netcoreapp2.0/encryptWord.dll
+/Users/Chris/Documents/SoftEngFund/Projects/encryptWord/encryptWord/obj/Debug/netcoreapp2.0/encryptWord.pdb
